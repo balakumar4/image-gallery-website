@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+.Image__header{
+    background-color: pink;
+    width: 70%;
+    height: 80%;
+    margin: 50px;
+    padding: 50px;
+    border: solid skyblue 5px;
+
+}
+.Image__header h1{
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    border-bottom: solid navy 3px;
+    margin-bottom: 20px;
+}
+.Image_gallery img{
+    margin: 10px;
+    border:  solid black 4px;
+    margin-left: 20px;
+    margin-top: 30px;
+}
